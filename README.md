@@ -1,7 +1,7 @@
 # Qlik Sense Wordpress Plugin
-[![WordPress plugin](https://img.shields.io/wordpress/plugin/v/qlik-sense.svg)](https://wordpress.org/plugins/qlik-sense/)
-[![WordPress plugin](https://img.shields.io/wordpress/plugin/dt/qlik-sense.svg)](https://wordpress.org/plugins/qlik-sense/)
-[![WordPress plugin rating](https://img.shields.io/wordpress/plugin/r/qlik-sense.svg)](https://wordpress.org/plugins/qlik-sense/)
+[![WordPress plugin](https://img.shields.io/wordpress/plugin/v/qlik-sense.svg?logo=wordpress&logoColor=ffffff)](https://wordpress.org/plugins/qlik-sense/)
+[![WordPress plugin](https://img.shields.io/wordpress/plugin/dt/qlik-sense.svg?logo=wordpress&logoColor=ffffff)](https://wordpress.org/plugins/qlik-sense/)
+[![WordPress plugin rating](https://img.shields.io/wordpress/plugin/r/qlik-sense.svg?logo=wordpress&logoColor=ffffff)](https://wordpress.org/plugins/qlik-sense/)
 
 This is a simple plugin to connect to your Qlik Sense server and create a mashup by getting the object with a shortcode inside a post or page within the admin panel
 
